@@ -1,0 +1,223 @@
+[26-Oct-2020 11:23:45 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/takeme/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 384
+[26-Oct-2020 11:24:59 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/takeme/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 384
+[26-Oct-2020 11:25:24 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/takeme/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 384
+[26-Oct-2020 11:25:29 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/takeme/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 384
+[02-Nov-2020 14:57:27 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::homeThirdDepartment) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 19
+[02-Nov-2020 14:57:47 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::homeThirdDepartment) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 19
+[02-Nov-2020 14:58:29 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::homeThirdDepartment) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 19
+[03-Nov-2020 08:47:33 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::getRates) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 20
+[03-Nov-2020 08:47:48 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::getRates) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 20
+[03-Nov-2020 11:36:34 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::checkPromo) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 21
+[03-Nov-2020 11:36:48 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::checkPromo) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 21
+[03-Nov-2020 11:38:05 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::checkPromo) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 21
+[03-Nov-2020 11:51:38 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::checkPromo) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 21
+[03-Nov-2020 11:52:01 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::checkPromo) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 21
+[03-Nov-2020 11:52:02 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::checkPromo) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 21
+[03-Nov-2020 11:55:03 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::checkPromo) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 21
+[03-Nov-2020 11:55:04 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::checkPromo) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 21
+[03-Nov-2020 11:56:58 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::checkPromo) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 21
+[09-Nov-2020 14:30:49 UTC] PHP Fatal error:  Declaration of App\Http\Controllers\Eloquent\Delegate\AuthRepository::codeCheck($code) must be compatible with App\Http\Controllers\Interfaces\Delegate\AuthRepositoryInterface::codeCheck($role, $phone, $code) in /home/takeme/public_html/app/Http/Controllers/Eloquent/Delegate/AuthRepository.php on line 14
+[23-Nov-2020 11:21:32 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\Delegate\DelegateRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\Delegate\DelegateRepositoryInterface::subscribedShops) in /home/takeme/public_html/app/Http/Controllers/Eloquent/Delegate/DelegateRepository.php on line 26
+[23-Nov-2020 11:22:06 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\Delegate\DelegateRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\Delegate\DelegateRepositoryInterface::subscribedShops) in /home/takeme/public_html/app/Http/Controllers/Eloquent/Delegate/DelegateRepository.php on line 26
+[23-Nov-2020 11:22:30 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\Delegate\DelegateRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\Delegate\DelegateRepositoryInterface::subscribedShops) in /home/takeme/public_html/app/Http/Controllers/Eloquent/Delegate/DelegateRepository.php on line 26
+[23-Nov-2020 11:22:43 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\Delegate\DelegateRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\Delegate\DelegateRepositoryInterface::subscribedShops) in /home/takeme/public_html/app/Http/Controllers/Eloquent/Delegate/DelegateRepository.php on line 26
+[29-Nov-2020 13:32:55 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\Delegate\AuthRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\Delegate\AuthRepositoryInterface::profileData) in /home/takeme/public_html/app/Http/Controllers/Eloquent/Delegate/AuthRepository.php on line 16
+[29-Nov-2020 13:38:36 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\Delegate\AuthRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\Delegate\AuthRepositoryInterface::profileData) in /home/takeme/public_html/app/Http/Controllers/Eloquent/Delegate/AuthRepository.php on line 16
+[30-Nov-2020 14:18:52 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\Delegate\AuthRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\Delegate\AuthRepositoryInterface::calculated_points) in /home/takeme/public_html/app/Http/Controllers/Eloquent/Delegate/AuthRepository.php on line 17
+[30-Nov-2020 14:19:17 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\Delegate\AuthRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\Delegate\AuthRepositoryInterface::calculated_points) in /home/takeme/public_html/app/Http/Controllers/Eloquent/Delegate/AuthRepository.php on line 17
+[30-Nov-2020 15:05:04 UTC] PHP Fatal error:  Declaration of App\Http\Controllers\Eloquent\Delegate\AuthRepository::replacePoints($request, $delegate_id) must be compatible with App\Http\Controllers\Interfaces\Delegate\AuthRepositoryInterface::replacePoints($delegate_id) in /home/takeme/public_html/app/Http/Controllers/Eloquent/Delegate/AuthRepository.php on line 18
+[27-Dec-2020 10:46:24 UTC] PHP Fatal error:  Declaration of App\Http\Controllers\Eloquent\User\HomeRepository::makeOrder($request, $user_id) must be compatible with App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::makeOrder($request, $user_id, $lang) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 31
+[27-Dec-2020 10:47:04 UTC] PHP Fatal error:  Declaration of App\Http\Controllers\Eloquent\User\HomeRepository::makeOrder($request, $user_id) must be compatible with App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::makeOrder($request, $user_id, $lang) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 31
+[28-Dec-2020 08:45:30 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::replacPoints) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 33
+[28-Dec-2020 08:46:27 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::replacPoints) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 33
+[28-Dec-2020 08:46:38 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::replacPoints) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 33
+[29-Dec-2020 15:23:10 UTC] PHP Fatal error:  Declaration of App\Http\Controllers\Eloquent\User\HomeRepository::getUserMessages($request, $user_id, $user_image, $lang) must be compatible with App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::getUserMessages($request, $user_id, $lang) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 41
+[19-Jan-2021 14:30:45 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::acceptConfirmRequest) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 44
+[31-Jan-2021 14:50:47 UTC] PHP Fatal error:  Declaration of App\Http\Controllers\Eloquent\User\HomeRepository::makeOrder($request, $user_id, $lang, $user_country_id) must be compatible with App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::makeOrder($request, $user_id, $lang) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 44
+[31-Jan-2021 14:50:55 UTC] PHP Fatal error:  Declaration of App\Http\Controllers\Eloquent\User\HomeRepository::makeOrder($request, $user_id, $lang, $user_country_id) must be compatible with App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::makeOrder($request, $user_id, $lang) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 44
+[04-Feb-2021 11:23:07 UTC] PHP Fatal error:  Declaration of App\Http\Controllers\Eloquent\Delegate\DelegateRepository::getShops($request, $lang, $delegate_id, $delegate_country_id) must be compatible with App\Http\Controllers\Interfaces\Delegate\DelegateRepositoryInterface::getShops($request, $lang, $delegate_id) in /home/takeme/public_html/app/Http/Controllers/Eloquent/Delegate/DelegateRepository.php on line 33
+[04-Feb-2021 11:23:10 UTC] PHP Fatal error:  Declaration of App\Http\Controllers\Eloquent\Delegate\DelegateRepository::getShops($request, $lang, $delegate_id, $delegate_country_id) must be compatible with App\Http\Controllers\Interfaces\Delegate\DelegateRepositoryInterface::getShops($request, $lang, $delegate_id) in /home/takeme/public_html/app/Http/Controllers/Eloquent/Delegate/DelegateRepository.php on line 33
+[15-Feb-2021 11:11:03 UTC] PHP Fatal error:  Class App\Http\Controllers\Eloquent\Captin\AuthRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\Captin\AuthRepositoryInterface::activeWorker) in /home/takeme/public_html/app/Http/Controllers/Eloquent/Captin/AuthRepository.php on line 16
+[21-Feb-2021 14:55:03 Africa/Cairo] PHP Fatal error:  Class App\Http\Controllers\Eloquent\UserUber\TripRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\UserUber\TripRepositoryInterface::editDestination) in /home/takeme/public_html/app/Http/Controllers/Eloquent/UserUber/TripRepository.php on line 23
+[21-Feb-2021 16:47:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[21-Feb-2021 17:23:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[21-Feb-2021 17:36:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 00:46:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 03:19:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 03:41:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 04:03:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 06:15:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 06:38:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:11:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:11:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:12:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:13:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:13:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:13:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:14:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:14:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:15:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:15:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:16:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:18:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:18:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:18:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:19:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:19:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:21:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:35:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 07:39:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/takeme/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/takeme/public_html/public/index.php(38): require_once()
+#1 /home/takeme/public_html/server.php(21): require_once('/home/takeme/pu...')
+#2 {main}
+  thrown in /home/takeme/public_html/bootstrap/app.php on line 14
+[22-Feb-2021 13:14:51 UTC] PHP Warning:  require(/home/takeme/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/takeme/public_html/public/index.php on line 24
+[22-Feb-2021 13:14:51 UTC] PHP Fatal error:  require(): Failed opening required '/home/takeme/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/takeme/public_html/public/index.php on line 24
+[22-Feb-2021 13:14:52 UTC] PHP Warning:  require(/home/takeme/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/takeme/public_html/public/index.php on line 24
+[22-Feb-2021 13:14:52 UTC] PHP Fatal error:  require(): Failed opening required '/home/takeme/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/takeme/public_html/public/index.php on line 24
+[22-Feb-2021 13:15:41 UTC] PHP Warning:  require(/home/takeme/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/takeme/public_html/public/index.php on line 24
+[22-Feb-2021 13:15:41 UTC] PHP Fatal error:  require(): Failed opening required '/home/takeme/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/takeme/public_html/public/index.php on line 24
+[22-Feb-2021 13:15:55 UTC] PHP Warning:  require(/home/takeme/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/takeme/public_html/public/index.php on line 24
+[22-Feb-2021 13:15:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/takeme/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/takeme/public_html/public/index.php on line 24
+[22-Feb-2021 13:27:59 UTC] PHP Warning:  require(/home/takeme/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/takeme/public_html/public/index.php on line 24
+[22-Feb-2021 13:27:59 UTC] PHP Fatal error:  require(): Failed opening required '/home/takeme/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/takeme/public_html/public/index.php on line 24
+[23-Feb-2021 10:20:05 Africa/Cairo] PHP Fatal error:  Declaration of App\Http\Controllers\Eloquent\Captin\TripRepository::collectedMoneyToday($driver_id, $driver_country_id, $files_completed, $lang) must be compatible with App\Http\Controllers\Interfaces\Captin\TripRepositoryInterface::collectedMoneyToday($driver_id, $country_id, $lang) in /home/takeme/public_html/app/Http/Controllers/Eloquent/Captin/TripRepository.php on line 32
+[23-Feb-2021 17:05:37 Africa/Cairo] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\AuthRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\AuthRepositoryInterface::addUserLocation) in /home/takeme/public_html/app/Http/Controllers/Eloquent/User/AuthRepository.php on line 13
+[14-May-2021 02:08:14 Africa/Cairo] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::likeMeal) in /home/u7oac2ekpk6y/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 49
+[14-May-2021 02:08:41 Africa/Cairo] PHP Fatal error:  Class App\Http\Controllers\Eloquent\User\HomeRepository contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Http\Controllers\Interfaces\User\HomeRepositoryInterface::likeMeal) in /home/u7oac2ekpk6y/public_html/app/Http/Controllers/Eloquent/User/HomeRepository.php on line 49

@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="{{asset('landing')}}/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{asset('landing')}}/assets/css/animate.min.css">
+    <link rel="stylesheet" href="{{asset('landing')}}/assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="{{asset('landing')}}/assets/css/style.css">
+    <link rel="stylesheet" href="{{asset('landing')}}/assets/css/responsive.css">
+    <title>الو شيف</title>
+    <link rel="icon" type="image/png" href="{{asset('landing')}}/assets/img/favicon.png">
+</head>
+
+<body>
+<div class="preloader">
+    <div class="loader">
+        <div class="loader-circle"></div> <span>  Allo Chef</span>
+    </div>
+</div>
+<div class="coming-soon-area" >
+    <div class="d-table">
+        <div class="d-table-cell">
+            <div class="container">
+                <div class="coming-soon-content wow fadeInUp" data-wow-delay="0s">
+                    <div class="logo" >
+                        <a href="{{asset('/')}}">
+                            <img width="100px" height="100px" src="{{asset('landing')}}/assets/img/logo.png" alt="image"
+                                 style="margin-top: 20px;margin-bottom: 0;border-radius: 10px">
+                        </a>
+                    </div>
+                    <h6> COOMING SOON . . .</h6>
+                    <h2>  Allo Chef application </h2>
+                    <p>
+
+                        Alo Chef is the first company in the world that seeks to facilitate home cooking instead of dispensing with fast food or restaurants, and this is what the CEO of the company, Chef Ihab Dalati, and a group of distinguished chefs are keen to present.
+                        In 2018, Alo Chef started with the idea of ​​collaborating with world-class chefs with the aim of bringing people together around the dining table, no matter how difficult their day may be by reducing the time required to create a delicious recipe.
+
+                    </p>
+                    <div class="btn-box"> <button class="btn btn-primary get-more-info-btn">contact us <i
+                                    class="fas fa-chevron-right"></i></button>
+                        <br>
+                        <h4 style="text-align: center">Powered By: <a href="" > ward el sham</a></h4>
+
+                        <br>
+                        <div class="col-md-12 footer-copyright" style="text-align: center">
+                            <a href="https://tesolutionspro.com" target="_blank">
+                                <b class="mb-0" style="color: #4466f2;">All rights reserved
+                                    &copy;
+                                </b>
+                            </a>
+                            <img src="{{asset('logo.png')}}" width="70px" height="30px" style="padding-bottom: 10px">
+
+                        </div>
+                    </div>
+
+
+
+                </div>
+                <div id="timer" class="wow fadeIn">
+                    <div id="days"></div>
+                    <div id="hours"></div>
+                    <div id="minutes"></div>
+                    <div id="seconds"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="shape1"><img src="{{asset('landing')}}/assets/img/circle1.png" alt="image"></div>
+    <div class="shape2"><img src="{{asset('landing')}}/assets/img/circle2.png" alt="image"></div>
+</div>
+<div class="sidebar-modal">
+    <div class="sidebar-modal-inner wow fadeInRight">
+        <div class="about-area wow fadeInRight">
+            <div class="title">
+                <h2 class="primary-color">About Allo Chef </h2>
+                <p>
+                    Alo Chef is the first company in the world that seeks to facilitate home cooking instead of dispensing with fast food or restaurants, and this is what the CEO of the company, Chef Ihab Dalati, and a group of distinguished chefs are keen to present.
+                    In 2018, Alo Chef started with the idea of ​​collaborating with world-class chefs with the aim of bringing people together around the dining table, no matter how difficult their day may be by reducing the time required to create a delicious recipe.
+                    It makes enjoying home cooking after a long day out easy, simple, intuitive and inspiring from the internet to the doorstep and then to the kitchen table.
+                    After designing delicious and easy-to-cook recipes and introducing them to the Egyptian market, the Alo Chef team has grown to include many professional chefs, and more than 200 employees and workers in the fields of production, marketing, technology, product, design and customer service.
+
+
+                </p>
+            </div>
+        </div>
+
+        <div class="contact-area wow fadeInRight">
+            <!--                <div class="title">-->
+            <!--                    <h2 class="primary-color">Contact us </h2>-->
+            <!--                </div>-->
+            <!--                <div class="mapouter">-->
+            <!--                    <div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas"-->
+            <!--                            src="{{asset('landing')}}/https://maps.google.com/maps?q=%D9%85%D8%B1%D9%83%D8%B2%20%D8%A7%D9%84%D8%A5%D8%AD%D8%B3%D8%A7%D9%86%20%D9%84%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84%203101%20%D8%B4%D8%A7%D8%B1%D8%B9%20%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2%D8%8C%20%D8%AC%D8%A7%D8%B2%D8%A7%D9%86%2082812%C2%A07013&t=&z=13&ie=UTF8&iwloc=&output=embed"-->
+            <!--                            frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>Google Maps-->
+            <!--                        Generator by <a href="https://www.embedgooglemap.net">embedgooglemap.net</a></div>-->
+            <!--                    <style>-->
+            <!--                        .mapouter {-->
+            <!--                            position: relative;-->
+            <!--                            text-align: right;-->
+            <!--                            height: 500px;-->
+            <!--                            width: 600px-->
+            <!--                        }-->
+
+            <!--                        .gmap_canvas {-->
+            <!--                            overflow: hidden;-->
+            <!--                            background: none !important;-->
+            <!--                            height: 500px;-->
+            <!--                            width: 600px-->
+            <!--                        }-->
+
+            <!--                        @media only screen and (max-width: 600px) {-->
+            <!--                            .mapouter {-->
+            <!--                                position: relative;-->
+            <!--                                text-align: right;-->
+            <!--                                height: 500px;-->
+            <!--                                width: 100%-->
+            <!--                            }-->
+
+            <!--                            .gmap_canvas {-->
+            <!--                                overflow: hidden;-->
+            <!--                                background: none !important;-->
+            <!--                                height: 500px;-->
+            <!--                                width: 100%-->
+            <!--                            }-->
+            <!--                        }-->
+            <!--                    </style>-->
+            <!--                </div>-->
+            <div class="contact-info">
+                <div class="contact-info-content">
+                    <h3>  Contact us by phone or mail </h3>
+                    <h2> <a href="tel:+201555505031">+20 155 55 05 031</a> <span>OR</span> <a
+                                href="mailto:ihabdalati@allochefeg.com">ihabdalati@allochefeg.com</a></h2>
+                    <!--                        <ul class="social">-->
+                    <!--                            <li><a href="#" target="_blank"><i-->
+                    <!--                                        class="fab fa-twitter"></i></a></li>-->
+                    <!--                            <li><a href="#" target="_blank"><i-->
+                    <!--                                        class="fab fa-facebook-f"></i></a></li>-->
+                    <!--                        </ul>-->
+
+                    <br>
+                    <br>
+                    <br>
+                    <h3>Powered By: <a href=""> ward el sham</a></h3>
+
+                    <br>
+                    <div class="col-md-12 footer-copyright" style="text-align: center">
+                        <a href="https://tesolutionspro.com" target="_blank">
+                            <b class="mb-0" style="color: #4466f2;">All rights reserved
+                                &copy;
+                            </b>
+                        </a>
+                        <img src="{{asset('logo.png')}}" width="70px" height="30px" style="padding-bottom: 10px">
+
+                    </div>
+
+                </div>
+            </div>
+        </div><span class="close-btn sidebar-modal-close-btn"><i class="fas fa-times"></i></span>
+    </div>
+</div>
+<script src="{{asset('landing')}}/assets/js/jquery.min.js"></script>
+<script src="{{asset('landing')}}/assets/js/wow.min.js"></script>
+<script src="{{asset('landing')}}/assets/js/popper.min.js"></script>
+<script src="{{asset('landing')}}/assets/js/bootstrap.min.js"></script>
+<script src="{{asset('landing')}}/assets/js/jquery.ajaxchimp.min.js"></script>
+<script src="{{asset('landing')}}/assets/js/form-validator.min.js"></script>
+<script src="{{asset('landing')}}/assets/js/contact-form-script.js"></script>
+<script src="{{asset('landing')}}/assets/js/main.js"></script>
+</body>
+
+</html>
